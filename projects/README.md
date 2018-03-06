@@ -10,6 +10,6 @@ Since I moved to Rome I realized that the monster-sized towns are the cradle of 
 
 The current solution is to build an antenna system which is small enough for an apartment balcony and really selective.
 
-The obvious solution is to put toghether the ideas for [Yet Another Magnetic Loop](projects/YAML)
+The obvious solution is to put toghether the ideas for [Yet Another Magnetic Loop](YAML/)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.

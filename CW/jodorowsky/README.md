@@ -1,6 +1,7 @@
 ## Alejandro Jodorowsky's 82 commandments in Morse Code
-
 ##### March 6th, 2018
+
+![The holy mountain](/IK0YUP/images/holy_mountain.jpg)
 
 Approaching the end of the Level 2 [CWOps](https://www.cwops.org/) training course, my CW advisor Keith G0HKC gave to the class a very challenging exercise, which was the CW version of the [Old Man and the Sea](https://en.wikipedia.org/wiki/The_Old_Man_and_the_Sea) by [Ernest Hemingway](https://en.wikipedia.org/wiki/Ernest_Hemingway).  This way, Morse Code finished completely to be a bunch of dit and dahs to be decoded and used for QSOs and became a language to learn.  
 
