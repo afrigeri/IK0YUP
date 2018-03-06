@@ -1,5 +1,25 @@
 ## Welcome to IK0YUP GitHub Pages
 
+Here you can find ideas and projects which I share with other radio amateurs worldwide.  
+
+
+### CW 
+
+I like CW a lot.  Since I was a young radio amateur, CW qso's fascinated me a lot.  Now that I grow up, and CW is not officially used anymore, it's like learning another language, keeping the mind fresh, and keeping on contacting OMs worldwide!
+
+#### Alejandro Jodorowsky's 82 commandments
+
+If you want to improve your CW headcopy and getting wiser at the same time, this is for you.
+
+### Hardware Projects
+
+#### YAML - Yet Another Magnetic Loop
+
+I grow up in a small town, where a fishing rod out of the window and the complicity of super-strong japan-made samurai finals, was more than enough to enjoy the hobby.
+
+Since I moved to Rome I realized that the monster town are the cradle of every kind of interfering signals.  The frustration trasformed into interest.
+
+
 You can use the [editor on GitHub](https://github.com/afrigeri/IK0YUP/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
