@@ -1,6 +1,6 @@
 ### Hardware Projects
 
-![Dali Atomicus](../images/dali_atomicus-halsman1948.jpg)
+![Dali Atomicus](/images/dali_atomicus-halsman1948.jpg)
 
 #### YAML - Yet Another Magnetic Loop
 
