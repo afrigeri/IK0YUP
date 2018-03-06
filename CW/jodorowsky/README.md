@@ -7,7 +7,10 @@ Incidentally I came by an excerpt from a book of [Alejandro Jodorowsky](https://
 
 I've formatted the text a bit and using DJ1YFK's very good [ebook2cw](https://fkurz.net/ham/ebook2cw.html), i produced the mp3 file you can download and enjoy.
 
- * The 82 commandments at 20wpm (spacing 15wpm) [mp3 file](82commandments_20-15.mp2) | [text file](82commandments.txt)
- * The 82 commandments at 20wpm (spacing 20wpm) [mp3 file](82commandments_20-20.mp2) | [text file](82commandments.txt)
- * The 82 commandments at 25wpm (spacing 20wpm) [mp3 file](82commandments_25-20.mp2) | [text file](82commandments.txt)
+
+The 82 commandments at 20wpm (spacing 15wpm) [mp3 file](82commandments_20-15.mp2) | [text file](82_commandments.txt)
+
+The 82 commandments at 20wpm (spacing 20wpm) [mp3 file](82commandments_20-20.mp2) | [text file](82_commandments.txt)
+
+The 82 commandments at 25wpm (spacing 20wpm) [mp3 file](82commandments_25-20.mp2) | [text file](82_commandments.txt)
 
