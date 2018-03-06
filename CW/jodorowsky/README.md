@@ -3,9 +3,11 @@
 
 Approaching the end of the Level 2 [CWOps](https://www.cwops.org/) training course, my advisor Keith G0HKC gave a very challenging exercise, which was the CW version of the Old Man and the Sea by Ernest Hemingway.  This way, Morse Code finished completely to be a bunch of dit and dahs to be decoded - and become a language to learn.  
 
-Incidentally I came by an excerpt from a book of Alejandro Jodorowsky which I've found to be ideal for CW head-copy for two main reasons.  They are a list of not-dependent phrases, and the contents are partuclarly inspiring - so decoding becomes truly a discover.
+Incidentally I came by an excerpt from a book of [Alejandro Jodorowsky](https://en.wikipedia.org/wiki/Alejandro_Jodorowsky) which I've found to be ideal for CW head-copy for two main reasons.  Firstly, they are a list of not-dependent phrases, so if you loose one you can still go on and copy the next one.  Then, since the contents are partuclarly inspiring, I found that decoding becomes a discover.
 
 I've formatted the text a bit and using DJ1YFK's very good [ebook2cw](https://fkurz.net/ham/ebook2cw.html), i produced the mp3 file you can download and enjoy.
 
- * The 82 commandments at 20wpm [mp3](82commandments_20wpm.mp2)[txt](82commandments_20wpm.txt)
+ * The 82 commandments at 20wpm (spacing 15wpm) [mp3 file](82commandments_20-15.mp2) | [text file](82commandments.txt)
+ * The 82 commandments at 20wpm (spacing 20wpm) [mp3 file](82commandments_20-20.mp2) | [text file](82commandments.txt)
+ * The 82 commandments at 25wpm (spacing 20wpm) [mp3 file](82commandments_25-20.mp2) | [text file](82commandments.txt)
 
