@@ -1,5 +1,7 @@
 ### Hardware Projects
 
+![Dali Atomicus](../images/dali_atomicus-halsman1948.jpg)
+
 #### YAML - Yet Another Magnetic Loop
 
 I grow up in a small town, where a fishing rod out of the window and the complicity of super-strong japan-made samurai finals, was more than enough to enjoy the hobby.
