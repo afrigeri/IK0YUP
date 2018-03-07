@@ -1,6 +1,8 @@
 ## Yet Another Magnetic Loop
 ### February-March 2018
 
+![Young Frankenstein](../../images/youngfrankenstein.jpg)
+
 I grow up in a small town, where a fishing rod out of the window and the complicity of super-strong japan-made samurai finals, were more than enough to enjoy the radio amateur hobby.
 
 Since I moved to Rome I realized that the monster-sized towns are the cradle of every kind of interfering signals.  The initial frustration has trasformed soon into a challeninging interest into [RFI](https://en.wikipedia.org/wiki/Electromagnetic_interference) and how to survive to them.
