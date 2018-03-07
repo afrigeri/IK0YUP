@@ -9,5 +9,5 @@ I like CW a lot.  Since I was a young radio amateur, CW qso's fascinated me a lo
 
 #### Alejandro Jodorowsky's 82 commandments
 
-If you want to improve your CW headcopy and getting wiser at the same time, this is for you.
+If you want to improve your CW headcopy and getting wiser at the same time, [this is for you](jodorowsky/).
 
