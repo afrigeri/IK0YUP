@@ -1,7 +1,7 @@
 ## Yet Another Magnetic Loop
 ### February-March 2018
 
-![Young Frankenstein](/IK0YUP/images/youngfrankenstein.jpg)
+![Young Frankenstein](../../images/youngfrankenstein.jpg)
 
 I grow up in a small town, where a fishing rod out of the window and the complicity of super-strong japan-made samurai finals, were more than enough to enjoy the radio amateur hobby.
 
