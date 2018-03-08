@@ -11,6 +11,20 @@ The solution I've found is to build an antenna system which is small enough for 
 
 The obvious solution is to put toghether the ideas for this Yet Another Magnetic Loop, which is nothin new but a synthesis of what I've found around.
 
+### Dimensioning 
+
+Using the AA5TB Small Magnetic Loop Antenna Calculator version 1.22a, the diameter of the loop will be 1.34 meters.
+
+
+#### Diameter of the conductor
+The diameter of the conductor will influence the efficiency and the bandwidth.
+
+__Copper pipes__ local hardware stores have copper diameters of diameters ranging from 12mm to 22mm.
+__Coaxial cables__  Low loss cables for WiFi have external diameters in the range 2.5-22.9mm.
+__Polyethylene pressure pipes __  PN6 (6bar) have diameters reaching 32mm.
+
+
+
 
 ### Materials
 
@@ -43,6 +57,7 @@ Mechanical joint with holes of 8mm and 6mm.
 
 1. [OH8STN](https://oh8stn.org/)
 2. [portable magnetic loop ](https://oh8stn.org/blog/2017/02/09/diy-man-portable-magnetic-loop-antenna/)
+3. [Ray Montagne (W7CIA) magnetic loop](http://www.ciarc.org/projects/magneticloop.shtml)
 
 
 
