@@ -22,10 +22,16 @@ __Variable Capacitor__ For 100W we should expect at least 4000V between the plat
 
 So in order to use almost all the watts onboard common HF transceivers, I've chosen get a used 5 to 500 pF vacuum capacitor, which can support up to 5000V.
 
-![images/CVUN-500AC-5-BAJA.jpg]
+<img src="images/CVUN-500AC-5-BAJA.jpg" width="200" >
 
 Comet brand seem serious enought to keep an up-to-date archive of specs, so here we have the [datasheet of the Comet CVUN-500AC-5-BAJA](docs/CVUN-500AC-5-BAJA.pdf) .
 
+
+#### Stepper Motor
+
+Mechanical joint with holes of 8mm and 6mm.
+
+<img src="images/joint.jpg" width="200" >
 
 #### List of materials
 
