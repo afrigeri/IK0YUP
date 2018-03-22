@@ -13,15 +13,20 @@
 W7    | TSU-6  | Notes
 ------|--------|-------
 8:ET  | 10:ET  |
- 7:DT |  9:DP  |
- 6:CT |  8:CP  |
- 5:SDO|  7:SDO | 
+ 7:DT |  9:DP  | Data
+ 6:CT |  8:CP  | Clock
+ 5:SDO|  7:SDO | Serial data out
  4:E  |  6:TO  |
 3:5C  |  3:5C  |
 2:CI  |  2:CI  |
 1:E   |  1:E   |
  /    |  4:CO  |
  /    |  5: PTT|
+
+
+In models with the CTCSS cable, there is a 33k resistor between E (GND) and TO
+![TH-45 resistor](images/th-45_33k.jpg | width=200) 
+
 
 Pitch is the distance between pins.  
 Common one or two rows pin headers are .1" (2.54mm)
