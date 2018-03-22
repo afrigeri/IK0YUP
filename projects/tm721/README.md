@@ -26,7 +26,7 @@ W7    | TSU-6  | Notes
 
 In models with the CTCSS cable, there is a 33k resistor between E (GND) and TO
 
-![](images/th-45_33k.jpg =100x100) 
+![](images/th-45_33k.jpg) 
 
 
 Pitch is the distance between pins.  
