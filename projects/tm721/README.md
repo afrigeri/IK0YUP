@@ -16,13 +16,14 @@ W7    | TSU-6  | Notes
  7:DT |  9:DP  | Data
  6:CT |  8:CP  | Clock
  5:SDO|  7:SDO | Serial data out
- 4:E  |  6:TO  |
+ 4:E  |  6:TO  | TX Out
 3:5C  |  3:5C  |
 2:CI  |  2:CI  |
-1:E   |  1:E   |
+1:E   |  1:E   | Ground
  /    |  4:CO  |
  /    |  5: PTT|
 
+SC(K): The clock pulses that the master can use to enable/disable devices.
 
 In models with the CTCSS cable, there is a 33k resistor between E (GND) and TO
 
