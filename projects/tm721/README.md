@@ -9,7 +9,7 @@
 ![W7](images/w7.jpg)
 
 ![TSU-6 circuit](images/tsu-6_circuit.png)
-![TSU-6 circuit](images/tsu-6_top.png)
+![TSU-6 circuit](images/tsu-6_top.jpg)
 
 W7    | TSU-6  | Notes
 ------|--------|-------
