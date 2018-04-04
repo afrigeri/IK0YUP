@@ -6,5 +6,5 @@ Every radio amateur operator becomes a skilled one getting hands dirt on project
 
  * [YAML - Yet Another Magnetic Loop](YAML/) is a project of a good antenna for small spaces
 
- * [Experiments on the Kenwood TM-721](TM-721E/) putting hands on the old-but-beautiful Kenwood TM-721E
+ * [Experiments on the Kenwood TM-721](tm721/) putting hands on the old-but-beautiful Kenwood TM-721E
 
