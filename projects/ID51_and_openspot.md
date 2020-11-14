@@ -1,3 +1,5 @@
+
+
 * Add a group for OpenSpot: MENU->DV Memory->Repeater List->Scroll down to 30->Quick key->Edit Name
 * Name the group, e.h. HOTSPOTS
 * Enter the HOTSPOT group
