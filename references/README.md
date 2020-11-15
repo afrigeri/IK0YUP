@@ -14,4 +14,5 @@
 
 ### Italian
 
+ * (I Radioamatori ed il terremoto del Friuli del 1976)[https://www.youtube.com/watch?v=vvBAVWo9-gY&feature=emb_logo]
  * (I radioamatori di Ferrara connessi col mondo intero)[https://www.youtube.com/watch?v=vtqybm_OxTo&feature=emb_logo] Filo DOC by Pietro Perelli

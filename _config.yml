@@ -1,5 +1,7 @@
+encoding: utf-8
 theme: jekyll-theme-minimal
 title: IK0YUP's Lab
 description: IK0YUP Radio Amateur Station 
 author: Alessandro Frigeri, IK0YUP
 author_email: ik0yup@amsat.org
+markdown: kramdown
