@@ -13,6 +13,6 @@ Here you can find ideas and projects which I share with other radio amateurs wor
 
  * [Morse Code or CW](CW/)
  * [Hardware projects](projects/)
-
+ * [HF propagation data](HF/propagation) 
 
 
