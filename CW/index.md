@@ -1,6 +1,6 @@
 ---
 title: 'IK0YUP CW'
-layout: post
+layout: default
 ---
 
 ![Kent Morse Key](http://www.kent-engineers.com/handline.jpg)

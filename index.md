@@ -1,6 +1,6 @@
 ---
 title: 'Welcome to IK0YUP GitHub Pages'
-layout: post
+layout: default
 ---
 # IK0YUP
 
