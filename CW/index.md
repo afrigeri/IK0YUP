@@ -1,4 +1,7 @@
-# IK0YUP's CW
+---
+title: 'IK0YUP CW'
+layout: default
+---
 
 ![Kent Morse Key](http://www.kent-engineers.com/handline.jpg)
 
