@@ -8,3 +8,6 @@ Every radio amateur operator becomes a skilled one getting hands dirt on project
 
  * [Experiments on the Kenwood TM-721](tm721/) putting hands on the old-but-beautiful Kenwood TM-721E
 
+ * Digital communications:
+	- [D-Star](digital/D-STAR)
+	- [DMR]
