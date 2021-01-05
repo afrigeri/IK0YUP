@@ -3,6 +3,13 @@
 * IR6UCC A/B/C
 * 
 
+### D-Star gateways
+
+Active D-Star gayeways in italy:
+
+ * IR8UAF B 
+ 
+
 ### D-Plus reflectors
 
 Active reflectors:
