@@ -1,7 +1,16 @@
+# Plugins on GitHub Pages
+# GitHub Pages is powered by Jekyll. All GitHub Pages sites are generated using the --safe option 
+# to disable plugins (with the exception of some whitelisted plugins) for security reasons. 
+# Unfortunately, this means your plugins won't work if you’re deploying via GitHub Pages.
+#
+# You can still use GitHub Pages to publish your site, but you'll need to either build 
+# the site locally and push the generated files to your GitHub repository or use GitHub 
+# Actions to host source files on GitHub yet build and deploy with full control on GitHub Pages.
+
 encoding: utf-8
 theme: jekyll-theme-minimal
 title: IK0YUP's Lab
 description: IK0YUP Radio Amateur Station 
 author: Alessandro Frigeri, IK0YUP
-author_email: ik0yup@amsat.org
+author_email: ik0yup@amsat.org.EXPIRED_IN_2024
 markdown: kramdown
