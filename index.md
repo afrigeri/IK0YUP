@@ -2,7 +2,6 @@
 title: 'Welcome to IK0YUP GitHub Pages'
 layout: default
 ---
-# IK0YUP
 
 ![The Stones of the Sky](images/the_stones_of_the_sky.jpg)
 
