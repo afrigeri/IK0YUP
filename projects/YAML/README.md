@@ -1,5 +1,5 @@
 ## Yet Another Magnetic Loop
-### February-March 2018
+### 2018-2026
 
 ![Young Frankenstein](../../images/youngfrankenstein.jpg)
 
@@ -13,7 +13,7 @@ The obvious solution is to put toghether the ideas for this Yet Another Magnetic
 
 ### Dimensioning 
 
-Using the AA5TB Small Magnetic Loop Antenna Calculator version 1.22a, the diameter of the loop will be 1.34 meters.
+Using the [AA5TB Small Magnetic Loop Antenna Calculator version 1.22a](https://www.aa5tb.com/loop.html#cal), the diameter of the loop will be 1.34 meters.
 
 
 #### Diameter of the conductor
@@ -58,6 +58,6 @@ Mechanical joint with holes of 8mm and 6mm.
 1. [OH8STN](https://oh8stn.org/)
 2. [portable magnetic loop ](https://oh8stn.org/blog/2017/02/09/diy-man-portable-magnetic-loop-antenna/)
 3. [Ray Montagne (W7CIA) magnetic loop](http://www.ciarc.org/projects/magneticloop.shtml)
-
+4. [G4ILO Wonder Loop](https://www.g4ilo.com/wonder-loop.html)
 
 
