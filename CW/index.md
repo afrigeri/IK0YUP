@@ -12,3 +12,6 @@ I like CW a lot.  Since I was a young radio amateur, CW qso's fascinated me a lo
 
 If you want to improve your CW headcopy and getting wiser at the same time, [this is for you](jodorowsky/).
 
+#### Morse Code Training
+
+Resources for [morse code training](training/) 
