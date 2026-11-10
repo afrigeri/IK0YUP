@@ -14,4 +14,8 @@ If you want to improve your CW headcopy and getting wiser at the same time, [thi
 
 #### Morse Code Training
 
-Resources for [morse code training](training/) 
+Resources for [morse code training](training/)
+
+#### Morse Code: Abbreviations
+
+Abbreviations to [be concise](code/)
